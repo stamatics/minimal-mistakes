@@ -8,9 +8,9 @@ author_profile: false
 ---
 
 -
-Join the Stamatics discord server to interact with the mentors and for any other communication: [invite link](https://discord.gg/JymBYVKWAY)
+Join the Stamatics discord server to interact with the mentors and for any other communication: [invite link](https://discord.gg/URhTdxpn4G)
 
-The recording of the projects introductory session can be found [here](https://youtu.be/vsM8uEKik_A)
+The live-stream of the projects' introductory session can be found [here](https://www.youtube.com/watch?v=XxcLsd1-6oU)
 
 ## 1 - Eavesdropping 101
 * **Mentors :** Ravija Chandel, Rahul Jha(juggernaut.jha#1241)
