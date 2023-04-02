@@ -13,7 +13,7 @@ Join the Stamatics discord server to interact with the mentors and for any other
 The recording of the projects introductory session can be found [here](https://youtu.be/vsM8uEKik_A)
 
 ## 1 - Eavesdropping 101
-* **Mentors :** Ravija Chandel,Rahul Jha(juggernaut.jha#1241)
+* **Mentors :** Ravija Chandel, Rahul Jha(juggernaut.jha#1241)
 * **Project Area :** Cryptography
 * **Description :** Most projects on cryptography focus on algorithms but like the great Loup Vailant said, one should never roll their own crypto. We will start with basics of finite fields before diving headfirst into DES and AES. Less time would be spent on the specifics of implementation and more time on the cryptanalysis. Then we will introduce key exchange, and their weaknesses.
 * **Prerequisites:** MTH102 (Linear Algebra), ESC101 (Intro To CS)
@@ -51,7 +51,7 @@ The recording of the projects introductory session can be found [here](https://y
 * **Expected Weekly Commitment :** 8 hours  
 
 
-## 4 - Introduction to measure theory
+## 4 - Introduction to Measure Theory
 * **Mentors :** Suyash Kumar Pathak (SoberTone#0164)
 * **Project Area :** Real Analysis
 * **Description :** This project aims to unearth the deeper and much more sophisticated aspects of real analysis. This would help the students not only to build up on their knowledge of analysis but also make their platform much more robust.
@@ -76,7 +76,7 @@ The recording of the projects introductory session can be found [here](https://y
 
 
 ## 6 - MathData: Empowering Data Science with Mathematical Tools  
-* **Mentors :** Siddhant Singhai(SiddhantSinghai#2918),Dishant Jain(dishant 02#6679)
+* **Mentors :** Siddhant Singhai(SiddhantSinghai#2918), Dishant Jain(dishant 02#6679)
 * **Project Area :** Statistics , Data Science ,Time Series Analysis
 * **Description :** In the first two weeks we would make the mentees familiar with the basics of python and the libraries we are going to use in the project which are pandas, NumPy , matplotlib , seaborn. Then in the following weeks we will focus on the statistical methods used in the data analysis and machine learning.We will also teach scikit-learn library as we will use this for the topics we are going to study later. We will start with the linear regression, Gradient descent, and cost function then we will move to the logistic regression, decision tree and random forest. Next We will finally move on to the K-means clustering. We will also teach if time remains naïve bayes classifier algorithm. At the end we will give them some glimpse of what extrapolation and interapolation is and introduce them to time series analysis also.We will specially focus on the theory of mathematical tools we are using like the regression analysis.
 
@@ -87,7 +87,7 @@ Basic python skills , Anyone with enthu is welcome(specially Y22)
 * **Expected Weekly Commitment :** 6 hours   
 
 ## 7 - Formal logic and Automata Theory
-* **Mentors :** Abir Rajbongshi  (Abir #4687), Dhruv Garg (Dhruv Garg#2699),Bhavaj Singla(210265_bhavaj#3414)
+* **Mentors :** Abir Rajbongshi  (Abir #4687), Dhruv Garg (Dhruv Garg#2699), Bhavaj Singla(210265_bhavaj#3414)
 
 * **Project Area :** Mathematical logic
 
@@ -100,26 +100,34 @@ Basic python skills , Anyone with enthu is welcome(specially Y22)
 * **Expected Weekly Commitment :** 6-7 hours  
 
 
-## 8 - From the Discrete to the Continuous and back
+## 8 - From the Discrete to the Continuous and Back
 * **Mentors :** Nupur Jain (NupurJ#8918)
 * **Project Area :** Topology and Combinatorics
+
 * **Description :** The study of topology explores continuous transformations, while combinatorics studies the discrete. The two interact and enrich each other in intriguing ways. In this project, we will take a look at how translating a problem from one of these domains to the other often makes for a more elegant and intuitive treatment. In particular, we will cover a topological proof of Kuratowski's theorem, a combinatorial proof of Brouwer's fixed point theorem, and see how triangulations are powerful tools to understand surfaces. Further topics can be decided based on which direction the interests of the mentees develop.
+
 * **Intended Audience :** All batches are welcome. No prerequisites are required. Elementary knowledge of topology would be useful but can easily be covered in the initial part of the project.
+
 * **Expected Duration :** 8 weeks or more 
+
 * **Expected Weekly Commitment :** atleast 5 hours 
 
 
 ## 9 - An Introduction to Theoretical Computer Science 
-* **Mentors :**Rohun Easwar (KnightWatch#7071),Pranjal Singh(pranjal#0532)
+* **Mentors :** Rohun Easwar (KnightWatch#7071),Pranjal Singh(pranjal#0532)
+
 * **Project Area :** Theory of Computation, Abstract Algebra
+
 * **Description :** This project is intended as an introduction to theoretical computer science.  (i) We will cover finite state machines (DFAs), Turing machines and some variants thereof, complexity classes, direct access (the random access in RAM) and circuits. (ii) We will also cover topics in algebra such as finite groups, rings and fields.  Other related topics can be explored as per the interests of the mentees, for example, quantum computing (how the elementary operations differ from classical operations) and one-way functions (and their relation to nondeterminism). Mentees are welcome to present topics that interest them.
 
 * **Intended Audience :** As the project is intended to introduce mentees to theoretical computer science, Y22 UGs stand to benefit the most.
+
 * **Expected Duration :** 8 weeks 
+
 * **Expected Weekly Commitment :** 3 hours  
 
 
-## 10 - Build Your own Computer vision Library 
+## 10 - Build Your own Computer Vision Library 
 * **Mentors :** Pratham Sahu(PRATHAMSAHU#6615),Aditya Bangar (AdityaBangar#5236),Dwija Kakkad(moonchronicle#5330)  
 
 * **Project Area :** Computer Vision
@@ -147,9 +155,9 @@ Basic python skills , Anyone with enthu is welcome(specially Y22)
 
 
 ## 12 - ClassifyMeister
-* **Mentors :** Sandipan Mitra  (Aeti#0020), Nitin Gupta (Reganite#7619), Alok Kumar
+* **Mentors :** Sandipan Mitra  (Aeti#0020), Nitin Gupta (Reganite#7619), Alok Kumar, Shashank Wankhade (shanks#0696)
 
-* **Project Area :**Supervised Machine Learning
+* **Project Area :** Supervised Machine Learning
 
 * **Description :** Covering the classification algorithms in the Supervised machine learning domain. Will include Logistic regression, naive bayes, k-nearest neighbors, SVM, Decision trees. Tentatively include two programming-based applications as evaluation metrics to gauge the understanding of mentees in the project. 
 
@@ -196,7 +204,7 @@ Basic python skills , Anyone with enthu is welcome(specially Y22)
 
 * **Prerequisites:** No pre req, No specific batch
 
-* **Intended Audience :** Y21, Y20
+* **Intended Audience :** Y22, Y21, Y20
 
 * **Expected Duration :** 6-8 weeks
 
@@ -247,7 +255,7 @@ Space State Models: In the end, we’ll spend a week studying about State Space 
 
 
 
-* **Prerequisites :**Basics of Python, and Statistics (can be learnt quickly)
+* **Prerequisites :** Basics of Python, and Statistics (can be learnt quickly)
 
 * **Intended Audience :** Y21 and Y22 with an interest in forecast modelling,  finance, machine learning.  
 
@@ -284,7 +292,7 @@ Space State Models: In the end, we’ll spend a week studying about State Space 
 <!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/mcmc-methods-in-julia)
 -->
 
-## 18 -  Mathematical predictor: machine learning
+## 18 -  Mathematical Predictor: Machine Learning
 
 * **Mentors:** Siddharth Garg(Siddharth Garg#9537), Rudransh Goel(Rudransh #1712)
  
@@ -295,7 +303,7 @@ Space State Models: In the end, we’ll spend a week studying about State Space 
 * **Description :** The idea of this project is to explore the mathematical aspects of machine learning algorithms, optimization techniques, and regularization methods. The project will include mathematical concepts used in linear regression, gradient descent, regularization, optimization techniques that improve model performance. The project can also include more topics such as ensemble learning, Bayesian methods, and dimensionality reduction. 
 
 
-* **Intended Audience :**Y21, Y22
+* **Intended Audience :** Y21, Y22
 
 * **Expected Duration :** 2.5 months
 
@@ -305,7 +313,7 @@ Space State Models: In the end, we’ll spend a week studying about State Space 
 <!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/quantum-theories-and-fundamentals)
 -->
 
-## 19 -  Image processing and computer vision
+## 19 -  Image Processing and Computer Vision
 
 * **Mentors:** Akshat Agarwal(akku#0940), Subhrajit Mishra(Subhrajit_Mishra#3214)
 
@@ -314,10 +322,10 @@ Space State Models: In the end, we’ll spend a week studying about State Space 
 
 * **Description :**  Sampling and quantization,  Image enhancement, Spatial domain analysis, frequency domain analysis, Edge detection, Image segmentation using ML algorithms, Image denoising, important probability distributions and their usage 
 
-* **Prerequisite :** mth102A and esc101A 
+* **Prerequisite :** MTH102A and ESC101A 
 
 
-* **Intended Audience :** highly enthusiastic y22s / y21s preferred,
+* **Intended Audience :** Highly Enthusiastic Y22s / Y21s preferred
 
 * **Expected Duration :** 6 to 8 weeks
 
