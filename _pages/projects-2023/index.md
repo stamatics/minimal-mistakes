@@ -26,7 +26,7 @@ The recording of the projects introductory session can be found [here](https://y
 
 
 ## 2 - Some Problems in Combinatorics 
-* **Mentors :** Farzan Byramji (geekotechy#7312), Pranshu Gaur (pran#1011)  
+* **Mentors :** Farzan Byramji (geekotechy#7312)
 
 * **Project Area :** Combinatorics
 
@@ -52,8 +52,8 @@ The recording of the projects introductory session can be found [here](https://y
 
 
 ## 4 - Introduction to measure theory
-* **Mentors :** Suyash Kumar Pathak (SoberTone#0164), Abhishek Shree (killBird#5626)
-* **Project Area :** Number Theory and Abstract Algebra
+* **Mentors :** Suyash Kumar Pathak (SoberTone#0164)
+* **Project Area :** Real Analysis
 * **Description :** This project aims to unearth the deeper and much more sophisticated aspects of real analysis. This would help the students not only to build up on their knowledge of analysis but also make their platform much more robust.
   The other component would be the application of the concepts learned in areas like cryptography, random number generation, hash functions, etc.
 
