@@ -13,10 +13,10 @@ Join the Stamatics discord server to interact with the mentors and for any other
 The recording of the projects introductory session can be found [here](https://youtu.be/vsM8uEKik_A)
 
 ## 1 - Eavesdropping 101
-* **Project Area :** Cryptography
 * **Mentors :** Ravija Chandel,Rahul Jha(juggernaut.jha#1241)
+* **Project Area :** Cryptography
 * **Description :** Most projects on cryptography focus on algorithms but like the great Loup Vailant said, one should never roll their own crypto. We will start with basics of finite fields before diving headfirst into DES and AES. Less time would be spent on the specifics of implementation and more time on the cryptanalysis. Then we will introduce key exchange, and their weaknesses.
-  Prerequisites: MTH102 (Linear Algebra), ESC101 (Intro To CS)
+* **Prerequisites:** MTH102 (Linear Algebra), ESC101 (Intro To CS)
 
 * **Intended Audience :** Y21-Y22
 
@@ -32,7 +32,7 @@ The recording of the projects introductory session can be found [here](https://y
 
 * **Description :** The main goal will be to try solving some problems in combinatorics that seem interesting. Problems of several kinds like enumerative, algebraic, or extremal can be considered. Some of these may have connections to TCS or discrete probability.
 
-     * **Prerequisites :** Some very basic combinatorics (say roughly at the level of Bona's A Walk through Combinatorics or the course CS201) is desirable. More knowledge related to the kind of problems one is interested in tackling (for instance, from Stanley's books for enumerative combinatorics or Alon and Spencer's The Probabilistic Method for some extremal stuff) would be helpful. None of this is strictly necessary (or sufficient) and most things can be picked up as we go along. Some mathematical maturity is perhaps the only essential requirement.
+* **Prerequisites :** Some very basic combinatorics (say roughly at the level of Bona's A Walk through Combinatorics or the course CS201) is desirable. More knowledge related to the kind of problems one is interested in tackling (for instance, from Stanley's books for enumerative combinatorics or Alon and Spencer's The Probabilistic Method for some extremal stuff) would be helpful. None of this is strictly necessary (or sufficient) and most things can be picked up as we go along. Some mathematical maturity is perhaps the only essential requirement.
 
 * **Intended Audience :** Open to all
 
@@ -80,7 +80,7 @@ The recording of the projects introductory session can be found [here](https://y
 * **Project Area :** Statistics , Data Science ,Time Series Analysis
 * **Description :** In the first two weeks we would make the mentees familiar with the basics of python and the libraries we are going to use in the project which are pandas, NumPy , matplotlib , seaborn. Then in the following weeks we will focus on the statistical methods used in the data analysis and machine learning.We will also teach scikit-learn library as we will use this for the topics we are going to study later. We will start with the linear regression, Gradient descent, and cost function then we will move to the logistic regression, decision tree and random forest. Next We will finally move on to the K-means clustering. We will also teach if time remains naïve bayes classifier algorithm. At the end we will give them some glimpse of what extrapolation and interapolation is and introduce them to time series analysis also.We will specially focus on the theory of mathematical tools we are using like the regression analysis.
 
-   * **Prerequisites:**
+* **Prerequisites:**
 Basic python skills , Anyone with enthu is welcome(specially Y22)
 
 * **Expected Duration :** 3 months  
@@ -101,7 +101,7 @@ Basic python skills , Anyone with enthu is welcome(specially Y22)
 
 
 ## 8 - From the Discrete to the Continuous and back
-* **Mentors :**Nupur Jain (NupurJ#8918)
+* **Mentors :** Nupur Jain (NupurJ#8918)
 * **Project Area :** Topology and Combinatorics
 * **Description :** The study of topology explores continuous transformations, while combinatorics studies the discrete. The two interact and enrich each other in intriguing ways. In this project, we will take a look at how translating a problem from one of these domains to the other often makes for a more elegant and intuitive treatment. In particular, we will cover a topological proof of Kuratowski's theorem, a combinatorial proof of Brouwer's fixed point theorem, and see how triangulations are powerful tools to understand surfaces. Further topics can be decided based on which direction the interests of the mentees develop.
 * **Intended Audience :** All batches are welcome. No prerequisites are required. Elementary knowledge of topology would be useful but can easily be covered in the initial part of the project.
@@ -153,8 +153,7 @@ Basic python skills , Anyone with enthu is welcome(specially Y22)
 
 * **Description :** Covering the classification algorithms in the Supervised machine learning domain. Will include Logistic regression, naive bayes, k-nearest neighbors, SVM, Decision trees. Tentatively include two programming-based applications as evaluation metrics to gauge the understanding of mentees in the project. 
 
-    Prerequisites : Basic level linear algebra(operations on matrices)
-    Recommended : Familiarity with arrays, libraries, functions in python (for assignments)
+* **Prerequisites :** Basic level linear algebra(operations on matrices). Recommended : Familiarity with arrays, libraries, functions in python (for assignments)
 
 * **Intended Audience :** Open for all batches
 
@@ -195,7 +194,7 @@ Basic python skills , Anyone with enthu is welcome(specially Y22)
 
 * **Description :** The project will start with a quick discussion on topological spaces and move onto knot theory, knot invariants, braids and braid group and later part we will discuss the application on knot theory in various domains.
 
-Prerequisites:No pre req, No specific batch
+* **Prerequisites:** No pre req, No specific batch
 
 * **Intended Audience :** Y21, Y20
 
@@ -218,7 +217,7 @@ Prerequisites:No pre req, No specific batch
 
 * **Description :** The project aims to introduce you to the nodes of “Data Science”, the elegant art of finding information from any raw dataset. This raw dataset can be an excel sheet, comma-separated files, self-simulated dataset, extracted data from a website or even an image etc. By the end of the project, you will be equipped with an experience in all of these fields and all the preliminaries to start the machine learning in R.
 
-    Prerequisites : ESC101/Familiarity with C/C++
+* **Prerequisites :** ESC101/Familiarity with C/C++
 * **Intended Audience :** Y22 mainly, and Y21 interested in SDS related topics, mainly people who do not have much exposure to Data Science, and wants to know more about it
 
 * **Expected Duration :** 8 weeks
@@ -315,7 +314,7 @@ Space State Models: In the end, we’ll spend a week studying about State Space 
 
 * **Description :**  Sampling and quantization,  Image enhancement, Spatial domain analysis, frequency domain analysis, Edge detection, Image segmentation using ML algorithms, Image denoising, important probability distributions and their usage 
 
-Prerequisite - mth102A and esc101A 
+* **Prerequisite :** mth102A and esc101A 
 
 
 * **Intended Audience :** highly enthusiastic y22s / y21s preferred,
@@ -359,7 +358,7 @@ Prerequisite - mth102A and esc101A
 
 * **Description :** We are going to implement PINN( Physics Informed Neural Network) to solve differential equations. And, eventually coding a Harmonic Oscillator using PINN.
 
-Prerequisite: - Familiarity with Python. 
+* **Prerequisite :** Familiarity with Python. 
  
 
 * **Intended Audience :** Y22 ( preferred )and Y21
@@ -386,7 +385,7 @@ Prerequisite: - Familiarity with Python.
 * **Description :** Time and Space Complexities , Graph traversals Algorithms , Shortest Path Algorithms, Tree traversals algorithms, Disjoint set union
 
 
-Prerequisite: - ESC101(or ESC111+ESC112)/ Familiarity with C/C++
+* **Prerequisite:** ESC101(or ESC111+ESC112)/ Familiarity with C/C++
 
 
 * **Intended Audience :** Y22 ( preferred )and Y21
@@ -397,68 +396,29 @@ Prerequisite: - ESC101(or ESC111+ESC112)/ Familiarity with C/C++
 
 ## 23 - Cryptographic Applications of Number Theory and Abstract Algebra
 
-
-
-
 * **Mentors:** Mihir Mittal(none_24#0679),Shwetank Anand(Shwetank Anand#0363), Aditya Kumar(ADITYA KUMAR#4526)
-
-
 
 * **Project Area :** Abstract Algebra, Number Theory, Group Theory and Cryptography
 
 
 * **Description :** We will start with some basics of number theory, including Euclid’s algorithm, Bezout’s Identity, Fermat’s little theorem, Euler’s Totient Function, Chinese Remainder Theorem and Diophantine equations. Then if time permits, we might extend to combinatorial number theory. Then we start with Abstract Algebra covering Group Theory, Rings, Fields, Finite Fields and Algebraic Closure of Fields and their Applications. Finally, we move to the above applications in Cryptography after covering the basics. We will cover key exchange algorithms like RSA. Then we will culminate with the most used encryption algorithm AES(Advanced Encryption Standard).
 
-
-
-
-
-
 * **Intended Audience :** Y22 ( preferred )and Y21
 
-
-
 * **Expected Duration :** 2-2.5 months
-
-
-
-
 
 * **Expected Weekly Commitment:** 6-7 hours
 
 ## 24 -  Mathematical Foundations of Computer Graphics, Rendering, and Lighting
 
-
-
-
-
 * **Mentors:** Ishan Bawne(RockStarDaddy#8138), Prakhar Pratap Mall(TheTUFGuy#0138)
-
-
-
-
- 
 
 * **Project Area :** Computer graphics
 
-
-* **Description :** In this project, students will explore the mathematical foundations of computer graphics, rendering, and lighting. Over eight weeks, they will cover topics such as ray tracing, lighting, procedural generation, and special topics like curves, tangents, and splines. Students will also learn programming skills in C++/C# and develop problem-solving skills that are valuable in various fields such as game development, computer graphics, and computer vision.
-
-Throughout the course, students will gain hands-on experience implementing ray tracing, procedural generation, and mesh generation techniques. By the end of the course, they will have a solid understanding of the mathematical foundations of computer graphics and will be able to apply their skills in real-world situations. This course is perfect for anyone interested in computer graphics or game development and is looking to expand their knowledge and skillset in these areas.
-
-
-
-
-
+* **Description :** In this project, students will explore the mathematical foundations of computer graphics, rendering, and lighting. Over eight weeks, they will cover topics such as ray tracing, lighting, procedural generation, and special topics like curves, tangents, and splines. Students will also learn programming skills in C++/C# and develop problem-solving skills that are valuable in various fields such as game development, computer graphics, and computer vision. Throughout the course, students will gain hands-on experience implementing ray tracing, procedural generation, and mesh generation techniques. By the end of the course, they will have a solid understanding of the mathematical foundations of computer graphics and will be able to apply their skills in real-world situations. This course is perfect for anyone interested in computer graphics or game development and is looking to expand their knowledge and skillset in these areas.
 
 * **Intended Audience :** Y20/Y21, Y22 with decent C++/C# experience
 
-
-
 * **Expected Duration :** 8 weeks
-
-
-
-
 
 * **Expected Weekly Commitment:** 9-10 hours/week
