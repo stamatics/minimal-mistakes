@@ -13,7 +13,7 @@ Join the Stamatics discord server to interact with the mentors and for any other
 The live-stream of the projects' introductory session can be found [here](https://www.youtube.com/watch?v=XxcLsd1-6oU)
 
 ## 1 - Eavesdropping 101
-* **Mentors :** Ravija Chandel, Rahul Jha(juggernaut.jha#1241)
+* **Mentors :** Ravija Chandel (ravija#0041), Rahul Jha(juggernaut.jha#1241), Devansh Jain (Devansh#7048)
 * **Project Area :** Cryptography
 * **Description :** Most projects on cryptography focus on algorithms but like the great Loup Vailant said, one should never roll their own crypto. We will start with basics of finite fields before diving headfirst into DES and AES. Less time would be spent on the specifics of implementation and more time on the cryptanalysis. Then we will introduce key exchange, and their weaknesses.
 * **Prerequisites:** MTH102 (Linear Algebra), ESC101 (Intro To CS)
