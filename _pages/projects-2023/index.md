@@ -44,7 +44,8 @@ The live-stream of the projects' introductory session can be found [here](https:
 ## 3 - An Introduction to Geometric Deep Learning 
 * **Mentors :** Aniruddh Pramod (atrytone#6918),Mehar Goenka (mehar#0870)
 * **Project Area :** Geometric Deep Learning, Graph Neural Networks, Artificial Intelligence
-* **Description :**  Geometric deep learning is a rapidly emerging field at the intersection of deep learning and geometry, which has the potential to revolutionize the way we analyze and understand complex data structures such as 3D shapes and graphs. This project is designed to provide you with a solid foundation in the concepts, methods, and applications of geometric deep learning and  show you the power of the Erlangen program for Machine Learning.  Prerequisites: A good understanding of Python programming
+* **Description :**  Geometric deep learning is a rapidly emerging field at the intersection of deep learning and geometry, which has the potential to revolutionize the way we analyze and understand complex data structures such as 3D shapes and graphs. This project is designed to provide you with a solid foundation in the concepts, methods, and applications of geometric deep learning and  show you the power of the Erlangen program for Machine Learning.  Prerequisites: A good understanding of Python programming.
+* You can view our presentation [here](https://docs.google.com/presentation/d/1MyxpvEqMWvqXsyUnGlW_XtSVaPIIpXYI148_dAHLFJA/edit?usp=sharing).
 
 * **Intended Audience :** Y21 and Y22
 * **Expected Duration :** 9-10 weeks  
