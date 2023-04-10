@@ -326,7 +326,7 @@ Space State Models: In the end, we’ll spend a week studying about State Space 
 * **Prerequisite :** MTH102A and ESC101A 
 
 
-* **Intended Audience :** Highly Enthusiastic Y22s / Y21s preferred
+* **Intended Audience :** Y20, Y21 and Highly Enthusiastic Y22s
 
 * **Expected Duration :** 6 to 8 weeks
 
