@@ -8,7 +8,7 @@ header:
   overlay_image: stamatics_coverpage.jpg
 ---
 ## Anouncements
-* Projects 2022 applications and details have been released. Please check Projects tab on the website.
+* Projects Details are now availaible in Projects 2023 tab.
 
 ## About Us
 
