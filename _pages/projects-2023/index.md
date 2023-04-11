@@ -359,7 +359,7 @@ Space State Models: In the end, we’ll spend a week studying about State Space 
 ## 21 -  PhysiLearn - Learning physics through neural networks
 
 
-* **Mentors:** Emaad Ahmed(EmaadAhmed#9226), Om Shrivastava(om shrivastava#6974), Aayush Gupta(AayuGupt#1331), Shivansh Maheshwari(Shivansh Maheshwari#9708)
+* **Mentors:** Emaad Ahmed(EmaadAhmed#9226), Om Shrivastava(om shrivastava#6974), Jetha Ram(Jetharam#2056), Shivansh Maheshwari(Shivansh Maheshwari#9708)
  
 
 * **Project Area :** Mathematical Physics
