@@ -6,6 +6,31 @@ layout: single
 author_profile: false
 ---
 
+## Coordinators 2023-24
+* [Tejus Khandelwal](https://www.facebook.com/profile.php?id=100075086745225)
+* [Rohun Sangam Easwar](https://www.facebook.com/profile.php?id=100075449700979)
+* [Sai Praneeth Donthu](https://www.facebook.com/profile.php?id=100075313952714)
+* [Sriram Chaitanya Veerapaneni](https://www.facebook.com/profile.php?id=100088265168357)
+
+## Executives 2023-24
+* Sinjini Sinha
+* Raghav Govind
+* Ritvik goyal
+* Jayant Vikash Jha
+* Naman Kumar Jaiswal
+* Rohit Karwa
+* Sruthi Subramanian
+* Viral Chitlangia
+* Ganesh Srivathshava Burri
+* Sahil Kumar Goyat
+* Venkatesh 
+* Shourya Khare
+* Devansh Gupta 
+* abhinav singh
+* Kshitij Pratap Singh
+* Jiyanshu Dhaka 
+* Prerak Agarwal
+
 ## Coordinators 2022-23
 * [Aniruddh Pramod](https://www.facebook.com/profile.php?id=100073246155953)
 * [Bipplav Kumar Tiwari](https://www.facebook.com/bipplav.tiwari)
