@@ -18,6 +18,9 @@ Join the Stamatics discord server to interact with the mentors and for any other
 weaknesses in the Riemann integral followed up with introductory Measure Theory (Borel Sets and Lebesgue Measure on R). The project aims to be rigorous until the Riemann Integral, beyond which it will turn more expository.
 
 The project aims at filling that gap between high school calculus and undergraduate analysis, and further, introducing mentees to the backend machinery of analysis that is measure theory. Exposing them to ideas of measure will help form a much more rigid foundation in their minds for any further ventures in the subject."
+
+You can view our presentation [here]([https://docs.google.com/presentation/d/1MyxpvEqMWvqXsyUnGlW_XtSVaPIIpXYI148_dAHLFJA/edit?usp=sharing](https://drive.google.com/open?id=18lVrXWstfowEx08XpH937aYMNzwM4CQT)).
+
 * **Prerequisites:** None
 
 * **Intended Audience :** Y23
