@@ -10,6 +10,8 @@ author_profile: false
 -
 Join the Stamatics discord server to interact with the mentors and for any other communication: [invite link](https://discord.gg/URhTdxpn4G)
 
+You can view the presentations of all the projects in this link [here](https://drive.google.com/drive/folders/1AA0lcyQI9o1zXwZNtJMV9pCdLhF0humj6fVcuQpXulSMP7mIndQoRx1FKh6jcHX7vGD0yMZF?usp=drive_link).
+
 
 ## 1 - A Reconstruction of Analysis
 * **Mentors :** Mohd Sufyan
@@ -18,8 +20,6 @@ Join the Stamatics discord server to interact with the mentors and for any other
 weaknesses in the Riemann integral followed up with introductory Measure Theory (Borel Sets and Lebesgue Measure on R). The project aims to be rigorous until the Riemann Integral, beyond which it will turn more expository.
 
 The project aims at filling that gap between high school calculus and undergraduate analysis, and further, introducing mentees to the backend machinery of analysis that is measure theory. Exposing them to ideas of measure will help form a much more rigid foundation in their minds for any further ventures in the subject."
-
-You can view our presentation [here](https://drive.google.com/open?id=18lVrXWstfowEx08XpH937aYMNzwM4CQT).
 
 * **Prerequisites:** None
 
@@ -50,7 +50,6 @@ You can view our presentation [here](https://drive.google.com/open?id=18lVrXWstf
 * **Project Area :** Stochastic Processes
 * **Description :**  "The primary aim of this summer project is to provide participants with a comprehensive understanding of stochastic processes, particularly focusing on Discrete Space Discrete Time Stochastic Processes, and their applications to model various processes such as gambling in a casino, random walk on integers, etc. The final 2 weeks of this project aims to impart knowledge of Hidden Markov Models and how they may be used to catch credit card fraud.
 "
-* You can view our presentation [here](https://docs.google.com/presentation/d/1MyxpvEqMWvqXsyUnGlW_XtSVaPIIpXYI148_dAHLFJA/edit?usp=sharing).
 
 * **Prerequisites :** MTH114/MTH102
 
