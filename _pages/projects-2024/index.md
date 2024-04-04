@@ -1,6 +1,6 @@
 ---
-title: Projects 2023
-permalink: /projects-2023/
+title: Projects 2024
+permalink: /projects-2024/
 toc: true
 layout: single
 author_profile: false
