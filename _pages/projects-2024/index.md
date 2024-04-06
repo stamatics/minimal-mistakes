@@ -171,7 +171,7 @@ on the methods used to prove theorems than on the theorems themselves."
 * **Description :** We will study about time series model in detail and implement them in pyhton using statsmodel library. We start from basics models like naive, white-noise,random walk and then move to more complex model like ARIMA and SARIMA.
 
 * **Prerequisites :** Basic Python and some py libraries like numpy, pandas, seaborn is plus
-* **Intended Audience :**Y23's and Y22's
+* **Intended Audience :**Y23's
 
 * **Expected Duration :** 8 weeks
 
