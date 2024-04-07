@@ -100,7 +100,7 @@ The project aims at filling that gap between high school calculus and undergradu
 
 * **Expected Duration :** 6 weeks  
 
-* **Expected Weekly Commitment :** 7-8 weeks
+* **Expected Weekly Commitment :** 7-8 hours
 
 
 ## 8 - Bayesian Analysis & Inference  
@@ -197,4 +197,23 @@ The project will have a concurrent focus on Functional Programming with OCaml as
 * **Expected Duration :** 2 months
 
 * **Expected Weekly Commitment:** 8 hours
+
+* ## 13 - An Introduction to Representation Theory
+  
+* **Mentors:**  Rohun Easwar
+
+
+
+* **Project Area :** Algebra
+
+
+* **Description :** 
+We will be studying the basics of representation theory from 'Linear Representations of Finite Groups' by Serre, and then we will move on to other topics as per the interest of the mentees. 
+* **Prerequisites: **Some familiarity with linear algebra and abstract algebra is expected. The background of prospective mentees will be assessed before they are allowed to join. 
+* **Intended Audience :** Anyone who satisfies the pre-requisites
+
+
+* **Expected Duration :** 8 weeks
+
+* **Expected Weekly Commitment:** 2-3 hours
   
