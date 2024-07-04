@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "Mathemania"
-    url: https://stamatics.github.io/mathemania/
-  - title: "Projects 2023"
-    url: /projects-2023/
+    url: https://mathemania2023.vercel.app
   - title: "Projects 2024"
     url: /projects-2024/
   - title: "Team"

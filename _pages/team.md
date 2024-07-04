@@ -26,7 +26,7 @@ author_profile: false
 * Venkatesh 
 * Shourya Khare
 * Devansh Gupta 
-* abhinav singh
+* Abhinav Singh
 * Kshitij Pratap Singh
 * Jiyanshu Dhaka 
 * Prerak Agarwal
